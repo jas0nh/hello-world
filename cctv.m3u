@@ -1,0 +1,7 @@
+#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
+#EXTINF:-1,央视频道1
+http://123.6.9.146/live/jz-cctv-1/live.m3u8
+#EXTINF:-1,央视频道11
+http://123.6.9.146/live/jz-cctv-11/live.m3u8
+#EXTINF:-1,央视频道13
+http://123.6.9.146/live/jz-cctv-13/live.m3u8
