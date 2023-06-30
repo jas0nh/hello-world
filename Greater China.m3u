@@ -69,3 +69,23 @@ http://cclive2.aniu.tv/live/anzb.m3u8
 http://210.210.155.37/dr9445/h/h03/index.m3u8
 #EXTINF:-1,Dali TV (大立電視台) (720p)
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1,央视频道1
+http://123.6.9.146/live/jz-cctv-1/live.m3u8
+#EXTINF:-1,央视频道3
+http://123.6.9.146/live/jz-cctv-3/live.m3u8
+#EXTINF:-1,央视频道5
+http://123.6.9.146/live/jz-cctv-5/live.m3u8
+#EXTINF:-1,央视频道6
+http://123.6.9.146/live/jz-cctv-6/live.m3u8
+#EXTINF:-1,央视频道7
+http://123.6.9.146/live/jz-cctv-7/live.m3u8
+#EXTINF:-1,央视频道9
+http://123.6.9.146/live/jz-cctv-9/live.m3u8
+#EXTINF:-1,央视频道10
+http://123.6.9.146/live/jz-cctv-10/live.m3u8
+#EXTINF:-1,央视频道11
+http://123.6.9.146/live/jz-cctv-11/live.m3u8
+#EXTINF:-1,央视频道12
+http://123.6.9.146/live/jz-cctv-12/live.m3u8
+#EXTINF:-1,央视频道13
+http://123.6.9.146/live/jz-cctv-13/live.m3u8
